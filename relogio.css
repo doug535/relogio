@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    display: grid;
+    place-items: center;
+    color: white;
+}
+div{
+    border: white solid 8px;
+    border-radius: 20px;
+    font-size: 10vh;
+    padding: 50px;
+    color: tomato;
+}
